@@ -77,3 +77,66 @@ padding: 15px 35px;
   .header-img {
     width: 90%;
   }
+
+
+}
+.about-text{
+  margin-top: 20%;
+  width: 90%;
+  
+}
+
+.about-part{
+    background-image: url(image/shape/7.png);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: 75% 50%;
+  }
+.about-text p{
+  margin-bottom: 5%;
+}
+  
+  .about-img{
+    display: inline-block;
+    width: 300px; 
+    margin-top: 55px;
+    margin-left: 30%;
+    height: 90%;
+  }
+
+
+
+  .recipi-text {
+    text-align: center;
+    
+    
+  }
+  .recipi-text p{
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+    color: forestgreen;
+  
+  }
+
+  .box-style{
+    width: 30%;
+    margin: 2%;
+    padding: 1%;
+    border-radius: 25px;
+    box-shadow: 10px 10px 40px -5px rgba(126, 5, 5, 0.603);
+  }
+  .boxses{
+    justify-content: space-around;
+    margin: 5%;
+  }
+  
+  .box-style img{
+    width: 100%;
+    border-radius: 25px;
+    height: 250px;
+    box-shadow: 10px 10px 40px -5px blue;
+  
+  }
+
+  
