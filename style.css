@@ -190,13 +190,14 @@ padding: 15px 35px;
   .menu-contain{
     overflow: hidden;
    background-color: rgb(236, 200, 218);
+   
 }
     
 }
 .nav-class{
     height: 90px;
     width: 100%;
-    background:rgba(218, 15, 15, 0.4);
+    
 }
 .nav-class ul{
     float: right;
